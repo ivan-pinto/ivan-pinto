@@ -8,9 +8,10 @@
 </p>
 
 <p align="center">
-[![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=ivan-pinto](https://github.com/anuraghazra/github-readme-stats)
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-pinto&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=ivan-pinto](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivan-pinto&theme=dark&show_icons=true" />
+</a>
 </p>
 
-[![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=ivan-pinto](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=ivan-pinto&theme=dark&show_icons=true](https://github.com/anuraghazra/github-readme-stats)
