@@ -7,7 +7,7 @@
 
 
 ## :man_technologist: About Me:
-- :telescope: I’m working with PL/SQL and Databases.
+- :telescope: I’m working with GO and C/CPP.
 
 - :seedling: Exploring Python.
 
