@@ -26,16 +26,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## :fire: My Stats :
 
 <div align="center">
-     <img src="http://github-readme-streak-stats.herokuapp.com?user=ivan-pinto&theme=dark&background=000000" alt="GitHubStreak" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-pinto&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+    <br />
+     <img src="http://github-readme-streak-stats.herokuapp.com?user=ivan-pinto&theme=dark&background=000000" alt="GitHubStreak" />
 </div>
 
 
