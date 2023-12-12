@@ -6,14 +6,14 @@
 </div>
 
 
-## :man_technologist: About Me:
+## :man_technologist: About Me
 - :telescope: I’m working with GO and C/CPP.
 
 - :seedling: Exploring Python.
 
 - :zap: In my free time, I solve problems on HackerRank.
 
-## :toolbox: Languages and Tools:
+## :toolbox: Languages and Tools
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -27,14 +27,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-## :fire: My Stats :
-
-<div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-pinto&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-    <br />
-     <img src="http://github-readme-streak-stats.herokuapp.com?user=ivan-pinto&theme=dark&background=000000" alt="GitHubStreak" />
-</div>
-
-
-
