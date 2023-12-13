@@ -7,9 +7,9 @@
 
 
 ## :man_technologist: About Me
-- :telescope: I’m working with GO and C/CPP.
+- :telescope: I’m working with C#.
 
-- :seedling: Exploring Python.
+- :seedling: Diving in Docker.
 
 - :zap: In my free time, I solve problems on HackerRank.
 
