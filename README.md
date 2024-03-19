@@ -27,3 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+## 🤓 Stats
+
+![ivan-pinto's Stats](https://github-readme-stats.vercel.app/api?username=ivan-pinto&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![ivan-pinto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivan-pinto&theme=dark&hide_border=true)
