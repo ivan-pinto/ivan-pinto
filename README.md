@@ -30,5 +30,9 @@
 
 ## 🤓 Stats
 
-![ivan-pinto's Stats](https://github-readme-stats.vercel.app/api?username=ivan-pinto&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![ivan-pinto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivan-pinto&theme=dark&hide_border=true)
+<div align="center">
+  
+  ![ivan-pinto's Stats](https://github-readme-stats.vercel.app/api?username=ivan-pinto&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![ivan-pinto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivan-pinto&theme=dark&hide_border=true)
+
+</div>
